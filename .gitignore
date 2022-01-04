@@ -1,5 +1,5 @@
 secrets.txt
-DS_Store
+.DS_Store
 
 # this is a comment
 # *.txt will not commit every of txt file

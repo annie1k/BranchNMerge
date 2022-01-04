@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-
-
-Try another weird thing
-
-=======
 111
->>>>>>> parent of ec5bb65 (weird thing)
+Back to pure

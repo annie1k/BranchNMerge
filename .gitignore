@@ -1,0 +1,4 @@
+secrets.txt
+
+# this is a comment
+# *.txt will not commit every of txt file
